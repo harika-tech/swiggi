@@ -1,0 +1,4 @@
+.hai
+.pk
+/node_modules/
+
